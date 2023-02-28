@@ -1,4 +1,4 @@
-<h1>It is a collaborative projects build by a team of three members</h1>
+<h1>It is a collaborative projects build by a team of three members. We are working on this</h1>
 <h3>Name of the project is HairDoc using this user can book salon appointment.</h3>
 
 
@@ -8,7 +8,6 @@
 <li>Ekta</li>
 <li>Ankesh Kewat</li>
 </ul>
-
 
 <!-- working flow of the -->
 
@@ -140,4 +139,11 @@ The system should be easy to maintain and update, with proper documentation .
 
 ## Home page
 ![image](https://user-images.githubusercontent.com/60172576/221766629-d8ba37a9-4101-4a52-aba6-fa0e03b5b4b1.png)
+
+## Womens page
+![image](https://user-images.githubusercontent.com/60172576/221769483-f1e54fb0-c97e-4a65-8629-7e5a638819cf.png)
+
+## Mens page
+![image](https://user-images.githubusercontent.com/60172576/221769616-33574d21-f0e0-47cd-a42c-96c254816171.png)
+
 
