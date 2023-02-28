@@ -140,7 +140,7 @@ The system should be easy to maintain and update, with proper documentation .
 ## Home page
 ![image](https://user-images.githubusercontent.com/60172576/221766629-d8ba37a9-4101-4a52-aba6-fa0e03b5b4b1.png)
 
-## Womens page
+## Women page
 ![image](https://user-images.githubusercontent.com/60172576/221769483-f1e54fb0-c97e-4a65-8629-7e5a638819cf.png)
 
 ## Mens page
